@@ -6,7 +6,7 @@ Análise comparativa de desempenho entre **Quick Sort**, **Heap Sort** e **Radix
 
 * `sorting.py`: Roda o benchmark de ordenação.
 * `plotting.py`: Gera os gráficos usados no artigo.
-* `benchmark\\\_results.csv`: Resultados das medições (tempo, memória, trocas e comparações).
+* `benchmark\_results.csv`: Resultados das medições (tempo, memória, trocas e comparações).
 * `main.tex`: Artigo em LaTeX formatado.
 
 ## Como rodar
